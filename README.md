@@ -7,3 +7,5 @@ Este proyecto analiza datos de ventas de videojuegos en diferentes regiones. El 
 - Python 3.10+
 - Jupyter Notebook
 - Pandas
+
+#### Este proyecto fue desarrollado como parte de una actividad académica.
