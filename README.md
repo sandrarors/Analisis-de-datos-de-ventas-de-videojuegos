@@ -1,4 +1,4 @@
-# Proyecto de Análisis de ventas de videojuegos 🎮
+# Proyecto de análisis de ventas de videojuegos 🎮
 
 ## 📌 Descripción
 Proyecto enfocado en analizar un conjunto de datos históricos sobre ventas de videojuegos, reseñas de usuarios y críticos, plataformas, géneros y clasificaciones ESRB, con el objetivo de identificar patrones de éxito y apoyar la planificación de campañas publicitarias.
